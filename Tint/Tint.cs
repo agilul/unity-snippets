@@ -3,6 +3,7 @@
 public class Tint : MonoBehaviour
 {
     public Color tint;
+    
     [Range(0f, 1f)]
     public float strength;
 
