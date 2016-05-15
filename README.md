@@ -1,2 +1,3 @@
-# unity-snippets
-Code snippets for Unity3D
+# Unity3D snippets
+
+Code snippets for Unity3D.
